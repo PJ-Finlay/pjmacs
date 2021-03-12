@@ -1,2 +1,2 @@
 # pjmacs
-P.J.'s Emac's config
+P.J.'s Emacs config
