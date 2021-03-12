@@ -1,2 +1,2 @@
-ln -s emacs-init.el ~/.emacs 
+ln emacs-init.el ~/.emacs 
 
