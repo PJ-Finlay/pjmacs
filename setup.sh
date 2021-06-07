@@ -1,2 +1,2 @@
-ln emacs-init.el ~/.emacs 
+ln pjmacs-init.el ~/.emacs 
 
