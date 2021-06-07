@@ -1,0 +1,16 @@
+# Notes
+
+## Emacs Lisp
+- http://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Eval.html
+
+M-x eval-region
+
+    Evaluate all the Emacs Lisp expressions in the region. 
+
+M-x eval-buffer
+
+    Evaluate all the Emacs Lisp expressions in the buffer. 
+
+## Web browser
+
+M-x eww
